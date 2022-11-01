@@ -26,13 +26,13 @@ class Usuario {
         return this.libros.map(libro => libro.nombre)
     }
 }
-let martin = new Usuario('Martin', 'Gomez', []
+let martin = new Usuario('Martin', 'Gomez', [], []
 )
 martin.addMasctota('perro')
 martin.addMasctota('gato')
 martin.addBook('trajano', 'posterguillo')
 
-let juan = new Usuario('Juan', 'Rubio')
+let juan = new Usuario('Juan', 'Rubio', [], [])
 juan.addMasctota('perro')
 juan.addMasctota('gato')
 juan.addMasctota('pez')
