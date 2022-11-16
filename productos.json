@@ -10,5 +10,11 @@
         "price": "1000",
         "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/026/234/products/mar3-f5eadb0e0e488ae7cd15467468945501-50-0.png",
         "id": 1
+    },
+    {
+        "title": "cuadro 3",
+        "price": "1400",
+        "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/026/234/products/mar3-f5eadb0e0e488ae7cd15467468945501-50-0.png",
+        "id": 2
     }
 ]
